@@ -18,3 +18,7 @@ Special thanks go to [overcast07](https://github.com/overcast07) for their [wayb
 ## Notice
 
 The process is **slow**, especially for websites with a lot of content. It nonetheless is a method to reliably archive more content than the "save outlinks" option of [archive.org](https://web.archive.org/save) (which also requires a registered account).
+
+## Dependencies
+
+`wget`, `grep`, `awk`
